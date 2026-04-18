@@ -20,7 +20,7 @@ method.
 1. Add a new Payment Method, using: `BillingIntegration::Skrill::QuickCheckout` as the `Prodivder`
 
 2. Click `Create`, and enter your Store's Skrill / MoneyBookers Merchant
-   ID (also called Customer ID) in the field provide.
+   ID (imr458458@gmail.com) in the field provide.
 
 3. `Save` and enjoy!
 
@@ -33,4 +33,4 @@ Be sure to add the rspec-rails gem to your Gemfile and then create a dummy test 
     $ bundle exec rake test app
     $ bundle exec rspec spec
 
-Copyright (c) 2011 [name of extension creator], released under the New BSD License
+Copyright (c) 2011 [Md Imran], released under the New BSD License
